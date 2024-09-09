@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "20231008",
+	"FriendlyName": "glTFRuntimeOBJ",
+	"Description": "glTFRuntime support for OBJ files",
+	"Category": "Other",
+	"CreatedBy": "Roberto De Ioris",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "glTFRuntimeOBJ",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "glTFRuntime",
+			"Enabled": true
+		}
+	]
+}
